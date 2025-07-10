@@ -1,0 +1,5 @@
+{
+  "name": "AI Chat Proxy",
+  "description": "A sleek chat interface that allows users to interact with different AI models like Google's Gemini and a simulated ChatGPT. Features include chat history persistence and model switching.",
+  "requestFramePermissions": []
+}
